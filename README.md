@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Mike Robertson
 #### Software Engineer
-![Software Engineer]([https://miro.medium.com/max/3600/1*24_Rpx6YmD6uZUpNrliGCw.jpeg](https://picsum.photos/500/500))
+![Software Engineer](https://picsum.photos/500/500)
 
 I am a senior full stack software engineer with a true passion for .NET based software development and cloud computing.
 
