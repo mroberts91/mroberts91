@@ -11,4 +11,4 @@ Skills: C#, .NET Core, ASP.NET Core, Kubernetes, AWS, SQL, NOSQL
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mroberts91)  
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=mroberts91&show_icons=true&count_private=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=mroberts91&show_icons=true&count_private=true&theme=cobalt)
