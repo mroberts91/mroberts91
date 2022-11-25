@@ -8,6 +8,8 @@ Skills: C#, .NET Core, ASP.NET Core, Kubernetes, AWS, SQL, NOSQL
 
 * 🔭 I’m currently working on a few things
 * 💬 Ask me about Anything 
+* 😀 I’m on Mastodon <a rel="me" href="https://hachyderm.io/@shanselman">https://hachyderm.io/@shanselman</a>
+
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mroberts91)  
 
